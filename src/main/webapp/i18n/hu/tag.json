@@ -1,0 +1,23 @@
+{
+  "techBlogApp": {
+    "tag": {
+      "home": {
+        "title": "Tags",
+        "createLabel": "Egy új Tag létrehozása",
+        "createOrEditLabel": "Hozzon létre, vagy módosítson Tagt",
+        "notFound": "No Tags found"
+      },
+      "created": "Egy új Tag lett létrehozva {{ param }} azonosítóval",
+      "updated": "A Tag módosítva lett {{ param }} azonosítóval",
+      "deleted": "A Tag törölve lett {{ param }} azonosítóval",
+      "delete": {
+        "question": "Biztos benne, hogy törölni szeretné az Tagt {{ id }} azonosítóval?"
+      },
+      "detail": {
+        "title": "Tag"
+      },
+      "name": "Name",
+      "entry": "Entry"
+    }
+  }
+}
