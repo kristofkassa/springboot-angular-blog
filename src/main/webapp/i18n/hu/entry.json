@@ -1,0 +1,26 @@
+{
+  "techBlogApp": {
+    "entry": {
+      "home": {
+        "title": "Entries",
+        "createLabel": "Egy új Entry létrehozása",
+        "createOrEditLabel": "Hozzon létre, vagy módosítson Entryt",
+        "notFound": "No Entries found"
+      },
+      "created": "Egy új Entry lett létrehozva {{ param }} azonosítóval",
+      "updated": "A Entry módosítva lett {{ param }} azonosítóval",
+      "deleted": "A Entry törölve lett {{ param }} azonosítóval",
+      "delete": {
+        "question": "Biztos benne, hogy törölni szeretné az Entryt {{ id }} azonosítóval?"
+      },
+      "detail": {
+        "title": "Entry"
+      },
+      "title": "Title",
+      "content": "Content",
+      "date": "Date",
+      "blog": "Blog",
+      "tag": "Tag"
+    }
+  }
+}
